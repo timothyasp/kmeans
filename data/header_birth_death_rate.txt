@@ -1,0 +1,26 @@
+#file26.txt
+#
+# 
+Reference:
+John Hartigan
+Clustering Algorithms
+#
+Wiley,1975.
+
+ISBN 0-471-35645-X
+
+LC: QA278.H36
+Dewey: 519.5'3
+
+Country is the country.
+Birth and Death are the birth and death rates
+#
+per 1000 persons, per the Reader's Digest Almanac of 1966.
+#
+
+Birth and Death Rates per 1000 Persons,Hartigan page 197
+
+3 columns
+
+70 rows
+

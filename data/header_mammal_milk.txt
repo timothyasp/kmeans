@@ -1,0 +1,47 @@
+#  file47.txt
+#
+#  
+Reference:
+#
+#    
+John Hartigan,
+#    
+Clustering Algorithms,
+#    
+Wiley, 1975.
+#    
+ISBN 0-471-35645-X
+#    
+LC: QA278.H36
+#    
+Dewey: 519.5'3
+#
+#  
+A list of animals, and the constituents of their milk.
+#  
+A shorter version of this table appears in file02.txt.
+#
+#  
+Name is the animal.
+#
+#  Water is the percentage of water.
+#
+#  
+Protein is the percentage of protein.
+#
+#  
+Fat is the percentage of fat.
+#
+#  
+Lactose is the percentage of lactose.
+#
+#  
+Ash is the percentage of ash.
+#
+
+Mammal's Milk, Hartigan page 304
+
+6 columns
+
+25 rows
+

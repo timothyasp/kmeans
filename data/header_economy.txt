@@ -1,0 +1,84 @@
+#  file41.txt
+#
+#  
+Reference:
+#
+#    
+John Hartigan,
+#    
+Clustering Algorithms,
+#    
+Wiley, 1975.
+#    
+ISBN 0-471-35645-X
+#    
+LC: QA278.H36
+#    
+Dewey: 519.5'3
+#
+#  
+Profit as a percentage of stockholder's equity is
+#  
+reported for various sectors of the US economy
+#  
+for the years 1959 through 1968.
+#
+#  
+Rows are
+#  
+01 All manufacturing corporations except newspapers
+#  
+02 Total curable
+#  
+03 Motor vehicles and equipment
+#  
+04 Electrical machinery, equipment and supplies
+#  
+05 Machinery except for electrical
+#  
+06 Fabricated metal products
+#  
+07 Primary iron and steel industry
+#  
+08 Primary non-ferrous metal industry
+#  
+09 Stone, clay and glass products
+#  
+10 Furniture and fixtures
+#  
+11 Lumber and wood products except furniture
+#  
+12 Instruments and related products
+#  
+13 Miscellaneous manufacture, including ordnance
+#  
+14 Total nondurable
+#  
+15 Food and kindred products
+#  
+16 Tobacco manufacture
+#  
+17 Textile mill products
+#  
+18 Apparel and related products
+#  
+19 Paper and allied products
+#  
+20 Printing and publishing, except newspapers
+#  
+21 Chemical and allied products
+#  
+22 Petroleum refining
+#  
+23 Rubber and miscellaneous plastic products
+#  
+24 Leather and leather products
+#
+
+"Profitability of Sectors of US Economy, Hartigan page 266"
+
+11 columns
+
+24 rows
+
+"Code" 

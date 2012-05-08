@@ -1,0 +1,26 @@
+# spaeth_01.txt
+#
+#  
+Discussion:
+#
+#    
+Data matrix with 37 rows and 2 columns
+#
+#  
+Modified:
+#
+#    02 April 2002
+#
+#  
+Reference:
+#
+#    
+Helmut Spaeth,
+#    
+Cluster Dissection and Analysis,
+#    
+Theory, FORTRAN Programs, Examples,
+#    
+Ellis Horwood, 1985, page 144.
+#
+

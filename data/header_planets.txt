@@ -1,0 +1,21 @@
+#  file01.txt
+#
+#  Reference: John Hartigan,
+#  Clustering Algorithms, Wiley, 1975.  ISBN 0-471-35645-X LC: QA278.H36 Dewey: 519.5'3
+#  Some minor planets may have been sighted more than once.  In the
+#  table, sightings thought to be of the same planet are listed 
+#  together.
+#
+# Name is the year of sighting and the initials of the astronomer.
+#
+# Node is the angle, in the earth's plane of orbit, at which the
+# minor planet crosses the earth's orbit.
+#
+# Inclination is the angle between the orbits of the earth and
+# the minor planet.
+#
+# Axis is the maximum distance between the minor planet and the
+# sun, divided by the corresponding quantity for the earth.
+# "Sightings of Minor Planets, Hartigan page 2"
+# 5 columns 19 row
+
