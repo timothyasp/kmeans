@@ -1,5 +1,4 @@
-import sys, math, random, csv
-from data_types import ClusteringData
+import sys, math, random, csv, types
 
 class KMeans:
     def __init__(self, filename, k):
@@ -141,11 +140,30 @@ def main():
     clusters = kmeans.cluster()
 
     for i, cluster in enumerate(clusters):
-        print "Cluster #", i+1
+        print "Cluster "+str(i+1)+":"
+        centroid = kmeans.centroids[i]['val']
+        print "Center: ", centroid
         print "Num Points: ", len(cluster)
-        print "Points: ", cluster
+        print "Points: "
+        maxdist = 0
+        mindist = sys.maxint
+        avgdist = 0
         for point in cluster:
-            print ",".join(point)
+            if type(point[1]) == tuple: 
+                distance = kmeans.distance(centroid, point[1])
+            else:
+                distance = kmeans.distance(centroid, point)
+
+            print point, ", distance=", distance
+            avgdist += distance
+            if distance > maxdist:
+                maxdist = distance
+            if distance < mindist:
+                mindist = distance
+        
+        print "Max distance: ", maxdist
+        print "Min distance: ", mindist
+        print "Avg distance: ", avgdist/len(cluster), "\n"
             
 
 if __name__ == '__main__':
