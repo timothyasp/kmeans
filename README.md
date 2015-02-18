@@ -1,6 +1,6 @@
 k-means & hclustering
 ======
-Python implementation of the k-means and hierarchical clustering algorithms for CSC 466
+Python implementation of the k-means and hierarchical clustering algorithms
 
 Authors
 ======
